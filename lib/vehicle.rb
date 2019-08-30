@@ -7,5 +7,6 @@ class Vehicle
   end
   
   def go 
-end
+    "vr"
+  end
 end
